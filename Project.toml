@@ -1,7 +1,7 @@
 name = "StochasticPointProcess"
 uuid = "00185195-7a8f-4c6c-97a2-63248a692337"
 authors = ["Yuki Sato <yuki.fhs@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.0.1"
 
 [compat]
 julia = "1.6"
